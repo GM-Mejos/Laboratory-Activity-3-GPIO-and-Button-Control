@@ -61,5 +61,5 @@ This project explores fundamental digital I/O concepts on the ESP32:
 
 ---
 
-## Lab Demonstrations
+## Laboratory Demonstration
 https://drive.google.com/drive/folders/1wrWAnmnJ7MWS8m70YYQ9kyIzV3OJyWDB?usp=sharing
