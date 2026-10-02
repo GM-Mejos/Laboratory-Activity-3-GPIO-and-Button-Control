@@ -58,3 +58,8 @@ This project explores fundamental digital I/O concepts on the ESP32:
    board = esp32doit-devkit-v1
    framework = arduino
    monitor_speed = 115200
+
+---
+
+## Lab Demonstrations
+https://drive.google.com/drive/folders/1wrWAnmnJ7MWS8m70YYQ9kyIzV3OJyWDB?usp=sharing
